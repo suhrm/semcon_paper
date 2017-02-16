@@ -1,0 +1,37 @@
+%!TEX root = ../Master.tex
+%\documentclass{IEEEtran}
+\documentclass[conference]{IEEEtran}
+\usepackage[T1]{fontenc} % optional
+\usepackage{amsmath}
+%\usepackage{hhline}
+\usepackage{tabu}
+%\usepackage[cmintegrals]{newtxmath}
+\usepackage{bm} % optional
+\usepackage[pdftex]{graphicx}
+\usepackage{subcaption}
+\usepackage{cite}
+\usepackage[table,xcdraw]{xcolor} % Added to allow tables from tables generator
+\usepackage{epstopdf} % Allows usagee of .eps files
+\usepackage{multirow} % Enables mltirowed cells in tables
+
+%% This cr*p is for thick lines in tables:
+\makeatletter
+\def\Cline#1#2{\@Cline#1#2\@nil}
+\def\@Cline#1-#2#3\@nil{%
+  \omit
+  \@multicnt#1%
+  \advance\@multispan\m@ne
+  \ifnum\@multicnt=\@ne\@firstofone{&\omit}\fi
+  \@multicnt#2%
+  \advance\@multicnt-#1%
+  \advance\@multispan\@ne
+  \leaders\hrule\@height#3\hfill
+  \cr}
+\makeatother
+
+
+\IEEEcompsocitemizethanks
+\IEEEcompsocthanksitem
+%\IEEEoverridecommandlockouts
+
+

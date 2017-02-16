@@ -1,0 +1,13 @@
+# Fdb version 3
+["pdflatex"] 1481185858 "implementationdetails.tex" "implementationdetails.pdf" "implementationdetails" 1481185858
+  "/etc/texmf/web2c/texmf.cnf" 1479329221 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1417527377 31088 8e088e958dd0258cc5414842768a3a00 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1417527377 31088 8e088e958dd0258cc5414842768a3a00 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1479329227 722897 7e1b069fb3787cc2ae6e2bf6d35b31fb ""
+  "implementationdetails.aux" 1481185849 8 a94a2480d3289e625eea47cd1b285758 ""
+  "implementationdetails.tex" 1481185848 4793 09676c626e3e8da575ded8bd8e884f82 ""
+  (generated)
+  "implementationdetails.pdf"
+  "implementationdetails.log"
